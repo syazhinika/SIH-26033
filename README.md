@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:24/11/26
+## Reference Number:26004619
+## Name:Yazhinika S
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,33 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+1.it will solve the existing problem.
+2.it will save time and effort.
+3.it will make the process easier and faster.
+
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+1.we use python for programming.
+2.we can design a simple and user-friendly interface.
+3.we can develop system step by step.
+4.we can test its performance to make sure its working properly.
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+1.our project can be developed using available technologies.
+2.It requires basic resources and proper planning.
+3.the challenges may be due to Technical errors and time management.
+
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+1.It will reduce manual work.
+2.It will save time and cost.
+3.It will improve accuracy and efficiency.
+4.It will provide a better experience for users.
+
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+
+1. We studied similar projects to understand the problem.
+2. We can collect useful information from websites and articles.
+3. We referred research papers related to our project.
+4. These references helped us develop our solution.
