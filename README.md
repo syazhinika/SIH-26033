@@ -37,6 +37,9 @@ Benefits:
 3.we can develop system step by step.
 4.we can test its performance to make sure its working properly.
 
+<img width="1536" height="1024" alt="Farmer and Customer App Workflow" src="https://github.com/user-attachments/assets/aa7bf484-865c-40c4-bb8a-151feb859b82" />
+
+
 ## Feasibility and Viability
 1.our project can be developed using available technologies.
 2.It requires basic resources and proper planning.
@@ -51,8 +54,6 @@ Benefits:
 
 
 ## Research and References
+1.https://www.fao.org/platform-food-loss-waste/flw-data/en
 
-1. We studied similar projects to understand the problem.
-2. We can collect useful information from websites and articles.
-3. We referred research papers related to our project.
-4. These references helped us develop our solution.
+2.https://enam.gov.in/web/
